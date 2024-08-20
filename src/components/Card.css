@@ -1,0 +1,14 @@
+.App h1 {
+    text-align: center;
+
+}
+.Card {
+    width: 300px; ;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px  #333333;
+    background-color:#99b8f8 ;
+    padding: 10px; 
+    text-align: center;
+    /* border: 2px solid #444; */
+
+}
